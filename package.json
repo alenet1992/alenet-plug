@@ -1,0 +1,22 @@
+{
+  "name": "alenet-tools",
+  "version": "1.0.2",
+  "description": "Utils for stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alenet1992/alenet-plug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alenet1992/alenet-plug/issues"
+  },
+  "homepage": "https://github.com/alenet1992/alenet-plug#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
