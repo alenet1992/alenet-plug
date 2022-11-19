@@ -9,7 +9,7 @@ your local machine for development and testing purposes. See deployment
 for notes on deploying the project on a live system.
 
 
-## Avalilabel 
+## Available 
 
 Explain how to run the automated tests for this system
 
@@ -29,6 +29,16 @@ console.log(result); // 3
 const result = subNumber(
     param1: Number, (2)
     param2: Number, (1)
+);
+
+console.log(result); // 1
+```
+
+### function divNumber
+```
+const result = divNumber(
+    param1: Number, (2)
+    param2: Number, (2)
 );
 
 console.log(result); // 1
